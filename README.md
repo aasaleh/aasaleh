@@ -1,6 +1,6 @@
 ### Hello, I am Adam! 👋
 
-⚡ I am a long life learner who is extremeley passionate about making a difference in life. In recent years, I found my calling to be an analytical force navigating the new AI/DS world and helping entities extract insights from data to improve human lives and processes. My dreanm is to ultimately make a pertinent impact in the healthcare industry that despearately needs our (collectively) help!
+⚡ I am a long life learner who is extremeley passionate about making a difference in life. In recent years, I found my calling to be an analytical force navigating the new AI/DS world and helping entities extract insights from data to improve human lives and processes. My dream is to ultimately make a pertinent impact in the healthcare industry that despearately needs our (collectively) help!
 
 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/atefadamsaleh/) or send me an [email](mailto:atefadamsaleh@gmail.com)!
 📫 How to know more about my professional life: Check me on [LinkedIn](https://www.linkedin.com/in/atefadamsaleh/)!
