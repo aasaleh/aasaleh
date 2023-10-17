@@ -1,4 +1,5 @@
 ### Hello, I am Adam! 👋
+📫 How to reach me: atefadamsaleh@gmail.com
 
 <!--
 **aasaleh/aasaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
