@@ -1,4 +1,5 @@
-### Hello, I am Adam! 👋
+<span style="color:blue">Hello, I am Adam!</span>👋  
+<hr style="border: 0.5px solid gray;">
 
 ⚡ I am a long life learner who is extremeley passionate about making a difference in life. In recent years, I found my calling to be an analytical force navigating the new AI/DS world and helping entities extract insights from data to improve human lives directly or indirectly. My dream is to ultimately make a pertinent impact in the healthcare industry that desperately needs our (collective) help!
 
