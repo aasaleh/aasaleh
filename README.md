@@ -1,5 +1,5 @@
 ### Hello, I am Adam! 👋
-📫 How to reach me: atefadamsaleh@gmail.com
+📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/atefadamsaleh/) or send me an [email](mailto:atefadamsaleh@gmail.com)!
 
 <!--
 **aasaleh/aasaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
